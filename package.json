@@ -20,5 +20,16 @@
   "bugs": {
     "url": "https://github.com/AveyBD/appointment-saas/issues"
   },
-  "homepage": "https://github.com/AveyBD/appointment-saas#readme"
+  "homepage": "https://github.com/AveyBD/appointment-saas#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.6.0",
+    "nodemailer": "^6.9.14"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
 }
