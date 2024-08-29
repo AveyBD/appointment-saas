@@ -1,0 +1,24 @@
+{
+  "name": "appointment-saas",
+  "version": "1.0.0",
+  "description": "A saas Appointment System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AveyBD/appointment-saas.git"
+  },
+  "keywords": [
+    "Appointment",
+    "Calandy",
+    "Booking"
+  ],
+  "author": "Debashish D. Dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AveyBD/appointment-saas/issues"
+  },
+  "homepage": "https://github.com/AveyBD/appointment-saas#readme"
+}
